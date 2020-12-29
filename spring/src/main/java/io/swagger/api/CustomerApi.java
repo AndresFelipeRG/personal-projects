@@ -32,7 +32,7 @@ import javax.validation.constraints.*;
 import java.util.List;
 import java.util.Map;
 
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2020-12-29T01:04:20.929Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2020-12-29T01:04:59.781Z[GMT]")
 public interface CustomerApi {
 
     @Operation(summary = "searches customer", description = "By passing in the appropriate options, you can search for available customers in the system ", tags={ "customer" })
