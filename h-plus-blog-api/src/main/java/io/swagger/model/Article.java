@@ -15,7 +15,7 @@ import javax.validation.constraints.*;
  * Article
  */
 @Validated
-@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2020-12-29T01:08:36.558Z[GMT]")
+@javax.annotation.Generated(value = "io.swagger.codegen.v3.generators.java.SpringCodegen", date = "2020-12-29T01:08:48.313Z[GMT]")
 
 
 public class Article   {
